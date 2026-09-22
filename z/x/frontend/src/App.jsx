@@ -15,7 +15,7 @@ import {
 } from 'recharts';
 import './App.css';
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://national-airfare-price-index.onrender.com';
 
 // High-fidelity 12-point time-series matching official survey horizon curves
 const MOCK_INDEX_CHART = [
