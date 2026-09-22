@@ -1,0 +1,16 @@
+/* Premium White Theme for Dashboard */
+:root {
+  --bg-app: #f8fafc;
+  --bg-header: #ffffff;
+  --bg-card: #ffffff;
+  --border-subtle: #e2e8f0;
+  --text-white: #0f172a;
+  --text-muted: #64748b;
+  --accent-blue: #0284c7;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
